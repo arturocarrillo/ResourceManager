@@ -1,0 +1,4 @@
+C:\Users\jbalam\Documents\Visual Studio 2015\WebSites\wwwPrueba\base_datos_c\bin\Debug\base_datos_c.dll
+C:\Users\jbalam\Documents\Visual Studio 2015\WebSites\wwwPrueba\base_datos_c\bin\Debug\base_datos_c.pdb
+C:\Users\jbalam\Documents\Visual Studio 2015\WebSites\wwwPrueba\base_datos_c\obj\Debug\base_datos_c.dll
+C:\Users\jbalam\Documents\Visual Studio 2015\WebSites\wwwPrueba\base_datos_c\obj\Debug\base_datos_c.pdb

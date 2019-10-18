@@ -1,0 +1,17 @@
+C:\SESEAY\DataAccess_ResourceManager\bin\Debug\DataAccess_ResourceManager.dll
+C:\SESEAY\DataAccess_ResourceManager\bin\Debug\DataAccess_ResourceManager.pdb
+C:\SESEAY\DataAccess_ResourceManager\bin\Debug\Data_Connection.dll
+C:\SESEAY\DataAccess_ResourceManager\bin\Debug\Entity_ResourceManager.dll
+C:\SESEAY\DataAccess_ResourceManager\bin\Debug\Data_Connection.pdb
+C:\SESEAY\DataAccess_ResourceManager\bin\Debug\Entity_ResourceManager.pdb
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager.csprojAssemblyReference.cache
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\UserControl1.g.cs
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager_MarkupCompile.cache
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager_MarkupCompile.lref
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\UserControl1.baml
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager.g.resources
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager.Properties.Resources.resources
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager.csproj.GenerateResource.cache
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager.csproj.CopyComplete
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager.dll
+C:\SESEAY\DataAccess_ResourceManager\obj\Debug\DataAccess_ResourceManager.pdb

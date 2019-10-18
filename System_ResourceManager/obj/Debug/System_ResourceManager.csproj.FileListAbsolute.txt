@@ -1,0 +1,14 @@
+C:\SESEAY\System_ResourceManager\bin\Debug\System_ResourceManager.exe.config
+C:\SESEAY\System_ResourceManager\bin\Debug\System_ResourceManager.exe
+C:\SESEAY\System_ResourceManager\bin\Debug\System_ResourceManager.pdb
+C:\SESEAY\System_ResourceManager\obj\Debug\System_ResourceManager.csprojAssemblyReference.cache
+C:\SESEAY\System_ResourceManager\obj\Debug\MainWindow.g.cs
+C:\SESEAY\System_ResourceManager\obj\Debug\App.g.cs
+C:\SESEAY\System_ResourceManager\obj\Debug\System_ResourceManager_MarkupCompile.cache
+C:\SESEAY\System_ResourceManager\obj\Debug\System_ResourceManager_MarkupCompile.lref
+C:\SESEAY\System_ResourceManager\obj\Debug\MainWindow.baml
+C:\SESEAY\System_ResourceManager\obj\Debug\System_ResourceManager.g.resources
+C:\SESEAY\System_ResourceManager\obj\Debug\System_ResourceManager.Properties.Resources.resources
+C:\SESEAY\System_ResourceManager\obj\Debug\System_ResourceManager.csproj.GenerateResource.cache
+C:\SESEAY\System_ResourceManager\obj\Debug\System_ResourceManager.exe
+C:\SESEAY\System_ResourceManager\obj\Debug\System_ResourceManager.pdb

@@ -1,0 +1,10 @@
+G:\Programacion\Sistemas\DataAccess\bin\Debug\DataAccess.dll
+G:\Programacion\Sistemas\DataAccess\bin\Debug\DataAccess.pdb
+G:\Programacion\Sistemas\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+G:\Programacion\Sistemas\DataAccess\obj\Debug\DataAccess.dll
+G:\Programacion\Sistemas\DataAccess\obj\Debug\DataAccess.pdb
+D:\Programacion\Sistemas\DataAccess\bin\Debug\DataAccess.dll
+D:\Programacion\Sistemas\DataAccess\bin\Debug\DataAccess.pdb
+D:\Programacion\Sistemas\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Programacion\Sistemas\DataAccess\obj\Debug\DataAccess.dll
+D:\Programacion\Sistemas\DataAccess\obj\Debug\DataAccess.pdb

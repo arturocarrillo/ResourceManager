@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\DataAccess\bin\Debug\Data_Connection.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\DataAccess\bin\Debug\Data_Connection.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\DataAccess\obj\Debug\Data_Connection.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\DataAccess\obj\Debug\Data_Connection.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\DataAccess\obj\Debug\Data_Connection.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\Data_Connection\bin\Debug\Data_Connection.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\Data_Connection\bin\Debug\Data_Connection.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\Data_Connection\obj\Debug\Data_Connection.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\Data_Connection\obj\Debug\Data_Connection.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Sistemas\Data_Connection\obj\Debug\Data_Connection.csprojResolveAssemblyReference.cache
+C:\SESEAY\Data_Connection\bin\Debug\Data_Connection.dll
+C:\SESEAY\Data_Connection\bin\Debug\Data_Connection.pdb
+C:\SESEAY\Data_Connection\obj\Debug\Data_Connection.dll
+C:\SESEAY\Data_Connection\obj\Debug\Data_Connection.pdb

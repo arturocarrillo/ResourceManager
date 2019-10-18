@@ -1,0 +1,6 @@
+C:\SESEAY\Entity_ResourceManager\bin\Debug\Entity_ResourceManager.dll
+C:\SESEAY\Entity_ResourceManager\bin\Debug\Entity_ResourceManager.pdb
+C:\SESEAY\Entity_ResourceManager\obj\Debug\Entity_ResourceManager.Properties.Resources.resources
+C:\SESEAY\Entity_ResourceManager\obj\Debug\Entity_ResourceManager.csproj.GenerateResource.cache
+C:\SESEAY\Entity_ResourceManager\obj\Debug\Entity_ResourceManager.dll
+C:\SESEAY\Entity_ResourceManager\obj\Debug\Entity_ResourceManager.pdb
